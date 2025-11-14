@@ -2,6 +2,8 @@
 
 An interactive analysis exploring the relationship between GDP and tuberculosis (TB) incidence and mortality rates across countries from 2000-2023.
 
+![TB Incidence Animation](tb_incidence_animation.gif)
+
 ## Overview
 
 This project analyzes World Health Organization (WHO) tuberculosis data merged with World Bank GDP data to investigate whether there's a correlation between a country's economic status and TB burden. The analysis includes interactive visualizations, statistical correlations, and animated maps showing TB trends over time.
@@ -29,6 +31,9 @@ The analysis reveals:
 The notebook includes:
 
 1. **Scatter Plots**: GDP vs TB incidence and mortality with trend lines and correlation coefficients
+
+![GDP vs TB Scatter Plots](GDPvsTBscatter.png)
+
 2. **Interactive Choropleth Maps**:
    - TB incidence by country
    - TB mortality by country

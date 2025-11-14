@@ -147,12 +147,13 @@ $RECYCLE.BIN/
 
 # Downloaded images
 who_tb_map.png
+# GDPvsTBscatter.png  # Keep this visualization in the repo
 
 # Metadata files
 meta.yaml
 
 # Generated outputs
-tb_incidence_animation.gif
+# tb_incidence_animation.gif  # Commented out - we want to include this in the repo
 
 # IDE specific files
 .vscode/
